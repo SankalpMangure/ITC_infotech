@@ -1,3 +1,5 @@
+// 1.Given an array nums of size n, return the majority element.
+
 function checkMajority(arr, n) {
     let maxCount = 0;
     let position = -1;

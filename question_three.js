@@ -1,3 +1,5 @@
+// 3. Find whether a given two strings m and n are isomorphic.
+
 let size = 256;
 
 function areIsomorphic(str1, str2) {

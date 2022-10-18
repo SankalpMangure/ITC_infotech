@@ -1,3 +1,5 @@
+// 5. From a given string return a longest palindrome substring.
+
 let longest_palindrom = long_palindrom_find('cbbd');
 function long_palindrom_find(s) {
     let r = s.split('').reverse().join('');

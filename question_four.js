@@ -1,3 +1,5 @@
+// 4. Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
+
 function check_issubsequence(str1, str2) {
     str1 = str1.split('');
     let lnt = str1.length;

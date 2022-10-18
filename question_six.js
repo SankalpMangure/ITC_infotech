@@ -1,3 +1,5 @@
+// 6. Find the longest common prefix string from an array of string
+
 function longestCommonPrefix(strs) {
     let prefix = strs.reduce((acc, str) => str.length < acc.length ? str : acc);
 
